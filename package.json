@@ -1,0 +1,74 @@
+{
+  "_from": "react-native-exception-handler@2.10.10",
+  "_id": "react-native-exception-handler@2.10.10",
+  "_inBundle": false,
+  "_integrity": "sha512-otAXGoZDl1689OoUJWN/rXxVbdoZ3xcmyF1uq/CsizdLwwyZqVGd6d+p/vbYvnF996FfEyAEBnHrdFxulTn51w==",
+  "_location": "/react-native-exception-handler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-exception-handler@2.10.10",
+    "name": "react-native-exception-handler",
+    "escapedName": "react-native-exception-handler",
+    "rawSpec": "2.10.10",
+    "saveSpec": null,
+    "fetchSpec": "2.10.10"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-exception-handler/-/react-native-exception-handler-2.10.10.tgz",
+  "_shasum": "b6bfe2b7e6ea4a4deb1f518f48ce2ee1d4843497",
+  "_spec": "react-native-exception-handler@2.10.10",
+  "_where": "/Users/omar/Dev/STiiiCK-app",
+  "author": {
+    "name": "a7ul"
+  },
+  "bugs": {
+    "url": "https://github.com/a7ul/react-native-exception-handler/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.0.0",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react-native": "^2.3.2"
+  },
+  "homepage": "https://github.com/a7ul/react-native-exception-handler",
+  "keywords": [
+    "modal",
+    "react",
+    "native",
+    "exception",
+    "handler",
+    "red",
+    "screen",
+    "production",
+    "ios",
+    "android",
+    "bug",
+    "capture"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-exception-handler",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7ul/react-native-exception-handler.git"
+  },
+  "scripts": {
+    "lint": "eslint app/",
+    "lint:fix": "eslint app/ --fix",
+    "test": "echo no tests && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "2.10.10"
+}
